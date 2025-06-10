@@ -133,34 +133,34 @@ We may use third-party Service providers to monitor and analyze the use of our S
 
 - **Google Analytics**
 
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+    Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
-You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy
+    You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+    For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 - **Firebase**
 
-Firebase is an analytics service provided by Google Inc.
+    Firebase is an analytics service provided by Google Inc.
 
-You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy
+    You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy
 
-We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)
+    We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)
 
-For more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+    For more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
 
 - **Sentry**
 
-Sentry is a performance monitoring and error tracking tool provided by Functional Software, Inc.
-We use Sentry to monitor, debug, and improve the stability of our Service. It helps us identify bugs and performance issues more effectively.
+    Sentry is a performance monitoring and error tracking tool provided by Functional Software, Inc.
+    We use Sentry to monitor, debug, and improve the stability of our Service. It helps us identify bugs and performance issues more effectively.
 
-For more information on the privacy practices of Sentry, please visit their Privacy Policy: https://sentry.io/privacy/
+    For more information on the privacy practices of Sentry, please visit their Privacy Policy: https://sentry.io/privacy/
 
 - **RevenueCat**
 
-You may opt-out of certain RevenueCat features through your mobile device settings, such as your device advertising settings or by following the instructions provided by RevenueCat in their Privacy Policy: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
+    You may opt-out of certain RevenueCat features through your mobile device settings, such as your device advertising settings or by following the instructions provided by RevenueCat in their Privacy Policy: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
-For more information on the privacy practices of RevenueCat, please visit the RevenueCat Privacy & Terms web page: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
+    For more information on the privacy practices of RevenueCat, please visit the RevenueCat Privacy & Terms web page: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
 # Payments
 We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
