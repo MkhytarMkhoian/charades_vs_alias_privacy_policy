@@ -1,6 +1,6 @@
 ## Privacy Policy for Charades Vs Alias
 
-[About]({{ "/terms/" | relative_url }})
+[Term and Conditions]({{ "/terms/" | relative_url }})
 
 # Privacy Policy
 Last updated: June 10, 2025
