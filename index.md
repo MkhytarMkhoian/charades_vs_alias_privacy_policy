@@ -178,6 +178,10 @@ We will not store or collect Your payment card details. That information is prov
 ## Consent to Share Consumption Data with Apple
 By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
 
+## Consent to Share Consumption Data with Google
+
+By using our app and making in-app purchases through Google Play, you consent to our sharing of data regarding your usage and consumption of purchased content with Google. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Google make informed decisions regarding refund requests. We ensure that such data sharing is done in compliance with Google's policies and only as necessary to process your requests.
+
 # Children's Privacy
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
