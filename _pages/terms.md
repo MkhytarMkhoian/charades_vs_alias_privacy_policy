@@ -1,3 +1,6 @@
+---
+permalink: /terms/
+---
 ## Terms and Conditions for Charades Vs Alias
 
 # Terms and Conditions

@@ -1,3 +1,8 @@
 name: Privacy Policy for Charades Vs Alias
 title: null
-include: ['_pages']
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
