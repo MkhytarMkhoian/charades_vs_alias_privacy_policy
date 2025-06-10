@@ -11,7 +11,7 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 ## Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-# Definitions
+## Definitions
 For the purposes of this Privacy Policy:
 
 - **Account** means a unique account created for You to access our Service or parts of our Service.
@@ -42,6 +42,7 @@ For the purposes of this Privacy Policy:
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 - Usage Data
+
 ### Usage Data
 Usage Data is collected automatically when using the Service.
 
@@ -73,11 +74,17 @@ The Company may use Personal Data for the following purposes:
 We may share Your personal information in the following situations:
 
 - **With Service Providers:** We may share Your personal information with Service Providers to monitor and analyze the use of our Service, for payment processing, to contact You.
+
 - **For business transfers:** We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+
 - **With Affiliates:** We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+
 - **With business partners:** We may share Your information with Our business partners to offer You certain products, services or promotions.
+
 - **With other users:** when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+
 - **With Your consent:** We may disclose Your personal information for any other purpose with Your consent.
+
 ## Retention of Your Personal Data
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
@@ -114,6 +121,7 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 - Prevent or investigate possible wrongdoing in connection with the Service
 - Protect the personal safety of Users of the Service or the public
 - Protect against legal liability
+
 ## Security of Your Personal Data
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
@@ -123,36 +131,36 @@ The Service Providers We use may have access to Your Personal Data. These third-
 ## Analytics
 We may use third-party Service providers to monitor and analyze the use of our Service.
 
-### Google Analytics
+- **Google Analytics**
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
 You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-### Firebase
+- **Firebase**
 
 Firebase is an analytics service provided by Google Inc.
 
 You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy
 
-We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245
+We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)
 
-For more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https://policies.google.com/technologies/partner-sites
+For more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
 
-### Sentry
+- **Sentry**
 
 Sentry is a performance monitoring and error tracking tool provided by Functional Software, Inc.
 We use Sentry to monitor, debug, and improve the stability of our Service. It helps us identify bugs and performance issues more effectively.
 
 For more information on the privacy practices of Sentry, please visit their Privacy Policy: https://sentry.io/privacy/
 
-### RevenueCat
+- **RevenueCat**
 
-You may opt-out of certain RevenueCat features through your mobile device settings, such as your device advertising settings or by following the instructions provided by RevenueCat in their Privacy Policy: https://www.revenuecat.com/privacy
+You may opt-out of certain RevenueCat features through your mobile device settings, such as your device advertising settings or by following the instructions provided by RevenueCat in their Privacy Policy: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
-For more information on the privacy practices of RevenueCat, please visit the RevenueCat Privacy & Terms web page: https://www.revenuecat.com/privacy
+For more information on the privacy practices of RevenueCat, please visit the RevenueCat Privacy & Terms web page: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 
 # Payments
 We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
@@ -161,11 +169,11 @@ We will not store or collect Your payment card details. That information is prov
 
 - **Apple Store In-App Payments**
 
-    Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
+    Their Privacy Policy can be viewed at [https://www.apple.com/legal/privacy/en-ww/](https://www.apple.com/legal/privacy/en-ww/)
 
 - **Google Play In-App Payments**
 
-    Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
+    Their Privacy Policy can be viewed at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
 
 ## Consent to Share Consumption Data with Apple
 By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
@@ -190,4 +198,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 # Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By email: charades.vs.alias@gmail.com
+- By email: [charades.vs.alias@gmail.com](mailto:charades.vs.alias@gmail.com)
