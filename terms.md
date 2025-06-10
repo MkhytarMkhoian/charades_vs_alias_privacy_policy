@@ -94,6 +94,20 @@ Subscriptions automatically renew unless canceled at least 24 hours before the e
 
 ---
 
+## Free Trial
+
+The Application may offer a free trial period for certain subscription features.
+- The duration of the free trial will be clearly displayed before you begin.
+- Unless canceled at least 24 hours before the end of the trial, the subscription will automatically convert to a paid subscription.
+- You can cancel the trial anytime via your account settings in the relevant app store:
+  - **Apple App Store:** [Manage Subscriptions](https://support.apple.com/en-us/HT202039)
+  - **Google Play Store:** [Cancel a Subscription](https://support.google.com/googleplay/answer/7018481)
+
+No charges will be made if you cancel before the trial ends.  
+You may not be eligible to receive more than one trial per subscription feature.
+
+---
+
 ## User-Generated Content
 
 If the Application allows you to submit content (e.g., custom words), you agree not to submit anything offensive, illegal, or infringing. 
