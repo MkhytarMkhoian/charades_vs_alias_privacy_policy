@@ -1,5 +1,7 @@
 ---
-permalink: /terms/
+layout: default
+title: About
+permalink: /about/
 ---
 ## Terms and Conditions for Charades Vs Alias
 

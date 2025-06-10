@@ -1,5 +1,7 @@
 ## Privacy Policy for Charades Vs Alias
 
+[About]({{ "/about/" | relative_url }})
+
 # Privacy Policy
 Last updated: June 10, 2025
 
