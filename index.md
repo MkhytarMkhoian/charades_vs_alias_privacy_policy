@@ -154,7 +154,7 @@ We may use third-party Service providers to monitor and analyze the use of our S
     Sentry is a performance monitoring and error tracking tool provided by Functional Software, Inc.
     We use Sentry to monitor, debug, and improve the stability of our Service. It helps us identify bugs and performance issues more effectively.
 
-    For more information on the privacy practices of Sentry, please visit their Privacy Policy: https://sentry.io/privacy/
+    For more information on the privacy practices of Sentry, please visit their Privacy Policy: [https://sentry.io/privacy/](https://sentry.io/privacy/)
 
 - **RevenueCat**
 
